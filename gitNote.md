@@ -48,6 +48,22 @@
 
 
 # 3.使用github
+> 配置秘钥:
+
+```
+  ssh-keygen
+  ssh-keygen
+  git clone https://github.com/chenxzong/Note.git
+```
+>gitHub 创建文档库
+
+```  
+  git add .
+  git status
+  git commit -m 'note'
+  git push -u origin master
+  #history
+```
 
 
 
