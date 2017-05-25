@@ -67,18 +67,18 @@
 
 
 ```
-  318  git init
-  319  git add .
-  320  git remote add origin https://github.com/chenxzong/Python.git
-  321  git push -u origin master
-  322  git remote add origin https://github.com/chenxzong/Python.git
-  323  git remote rm origin
-  324  git remote add origin https://github.com/chenxzong/Python.git
-  325  git push -u origin master
-  326  git add .
-  327  git commit -m "update"
-  328  git push -u origin master
-  329  history
+  git init
+  git add .
+  git remote add origin https://github.com/chenxzong/Python.git
+  git push -u origin master
+  git remote add origin https://github.com/chenxzong/Python.git
+  git remote rm origin
+  git remote add origin https://github.com/chenxzong/Python.git
+  git push -u origin master
+  git add .
+  git commit -m "update"
+  git push -u origin master
+  history
 
 Multi-line Code
 ```
