@@ -66,12 +66,14 @@
 ```
 
 
-```
+```git
+
   git init
   git add .
   git remote add origin https://github.com/chenxzong/Python.git
   git push -u origin master
   git remote add origin https://github.com/chenxzong/Python.git
+  git remote -v //查看origin连接
   git remote rm origin
   git remote add origin https://github.com/chenxzong/Python.git
   git push -u origin master
